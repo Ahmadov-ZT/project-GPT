@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-GPT/static/css/main.05d65a08.css",
+    "main.js": "/project-GPT/static/js/main.4cd6c576.js",
+    "static/media/ai.png": "/project-GPT/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/project-GPT/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/project-GPT/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/project-GPT/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/project-GPT/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/project-GPT/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/project-GPT/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/project-GPT/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/project-GPT/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/project-GPT/index.html",
+    "main.05d65a08.css.map": "/project-GPT/static/css/main.05d65a08.css.map",
+    "main.4cd6c576.js.map": "/project-GPT/static/js/main.4cd6c576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05d65a08.css",
+    "static/js/main.4cd6c576.js"
+  ]
+}
